@@ -1,4 +1,4 @@
-package recommender.springBoot;
+package restAPI;
 
 public class Product {
     private int id;

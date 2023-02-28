@@ -1,4 +1,4 @@
-package recommender.springBoot;
+package restAPI;
 
 import java.util.ArrayList;
 import java.util.List;
